@@ -39,9 +39,8 @@ While this project is open-source, our premium features and dedicated support ar
 
 ### 🌟 Join Our Community
 
-- 💬 [Telegram Group](https://t.me/YourTelegramGroup)
-- 🐦 [Twitter](https://twitter.com/YourTwitter)
-- 🌐 [Website](https://yourwebsite.com)
+- 💬 [Telegram Group](https://t.me/SolonaTax)
+
 
 ### ✨ Premium Benefits
 
