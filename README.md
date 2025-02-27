@@ -33,6 +33,9 @@ npm install
 npm start
 ```
 
+![image](https://github.com/user-attachments/assets/1bed25ee-f256-4caa-a4b3-d10dece0e4a8)
+
+
 ## 💎 Premium Features & Support
 
 While this project is open-source, our premium features and dedicated support are available exclusively to our community members.
