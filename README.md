@@ -35,6 +35,8 @@ npm start
 
 ![image](https://github.com/user-attachments/assets/1bed25ee-f256-4caa-a4b3-d10dece0e4a8)
 
+![image](https://github.com/user-attachments/assets/daaf8180-8a84-4e2a-8565-e5ad84e6fbc7)
+
 
 ## 💎 Premium Features & Support
 
