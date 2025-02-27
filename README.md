@@ -27,7 +27,7 @@ OPEN SOURCE JOIN OUR TELEGRAM: https://t.me/SolonaTax
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/solana-tax-distributor
+git clone https://github.com/apifarmer/solana-tax-distributor
 cd solana-tax-distributor
 npm install
 npm start
