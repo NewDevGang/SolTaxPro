@@ -44,7 +44,7 @@ While this project is open-source, our premium features and dedicated support ar
 
 ### 🌟 Join Our Community
 
-- 💬 [Telegram Group](https://t.me/SolonaTax)
+- 💬 [Telegram Group](https://t.me/SolTaxPro)
 
 
 ### ✨ Premium Benefits
@@ -84,7 +84,7 @@ While this project is open-source, our premium features and dedicated support ar
 
 For premium features, custom implementation, or dedicated support:
 
-1. Join our [Telegram Group]((https://t.me/SolonaTax))
+1. Join our [Telegram Group]((https://t.me/SolTaxPro)))
 2. Follow announcements for exclusive offers
 3. Connect with our team for personalized solutions
 
