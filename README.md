@@ -6,7 +6,7 @@
 ![Solana](https://img.shields.io/badge/Solana-Compatible-purple.svg)
 ![SPL Token-2022](https://img.shields.io/badge/SPL%20Token--2022-Ready-green.svg)
 
-OPEN SOURCE JOIN OUR TELEGRAM: https://t.me/SolonaTax
+OPEN SOURCE JOIN OUR TELEGRAM: https://t.me/SolTaxPro
 
 ## 🌟 Features
 
